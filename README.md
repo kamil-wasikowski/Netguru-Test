@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1XglUIo_R5JK4C5IutJE6dEazXD5YUiV8/view
 7. Extract Project
 8. Install IntelliJ with defoult setup
 9. After installation, run IntelliJ
-10. In "Welcome to IntelliJ IDEA window, select Import Project with Maven
+10. In "Welcome to IntelliJ IDEA" window, select Import Project with Maven
 11. Pick extracted project and run import
 12. Presst Ctrl+Alt+Shift+S
 13. Go to Modules and click on "+" icon
