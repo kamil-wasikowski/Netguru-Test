@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1XglUIo_R5JK4C5IutJE6dEazXD5YUiV8/view
 9. After installation, run IntelliJ
 10. In "Welcome to IntelliJ IDEA" window, select Import Project with Maven
 11. Pick extracted project and run import
-12. Presst Ctrl+Alt+Shift+S
+12. Press Ctrl+Alt+Shift+S
 13. Go to Modules and click on "+" icon
 14. Pick "JARs or directories" and select folder with Java placed in Folder from Step #6
 15. In "Netguru" project on the left side of a screen open: src > main > java paths
