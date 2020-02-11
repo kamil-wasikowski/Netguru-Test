@@ -1,7 +1,9 @@
 Hello,
-I attempted ready-to-go version of project to import here:
+
+I attempted to create ready-to-go version of project to import here:
 https://github.com/kamil-wasikowski/Netguru.git
-But I'm not sure if it's going to work becouse I never deal with this before. 
+
+But I'm not sure if it's going to work becouse I never deal with this before.
 
 Here is step by step instruction how to configure my automated test:
 1. Download InteliiJ SE here:
