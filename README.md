@@ -9,9 +9,9 @@ https://www.mozilla.org/
 https://github.com/mozilla/geckodriver/releases
 4. Download Java librarys here:
 https://drive.google.com/open?id=1G9TV9714Uyo5h2Y9zLJmIfOfEzDx8oko
-5. Download project for import:
+5. Download project for import here:
 https://drive.google.com/file/d/1XglUIo_R5JK4C5IutJE6dEazXD5YUiV8/view
-6. Create a Folder in your Desktop where you will keep both Java, WebDriver and Project in seperate spaces 
+6. Create a Folder in your Desktop where you will keep Java, WebDriver and Project in seperate spaces 
 7. Extract Project
 8. Install IntelliJ with defoult setup
 9. After installation, run IntelliJ
