@@ -33,3 +33,4 @@ https://drive.google.com/file/d/1XglUIo_R5JK4C5IutJE6dEazXD5YUiV8/view
 System.setProperty("webdriver.gecko.driver", "C:\\Users\\USER\\Desktop\\Netguru\\src\\main\\java\\geckodriver.exe");
 20. IntelliJ will ask about importing Maven setup, let him import everything
 21. Right-click on "Login.java" bookmark and select "Run 'Login.main()'
+22. If test stops on password element, re-trigger it :)
