@@ -3,7 +3,7 @@ Hello,
 I attempted to create ready-to-go version of project to import here:
 https://github.com/kamil-wasikowski/Netguru.git
 
-But I'm not sure if it's going to work becouse I never deal with this before.
+But I'm not sure if it's going to work because I never deal with this before.
 
 Here is step by step instruction how to configure my automated test:
 1. Download InteliiJ SE here:
@@ -12,13 +12,13 @@ https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&co
 https://www.mozilla.org/
 3. Download Firefox WebDriver here:
 https://github.com/mozilla/geckodriver/releases
-4. Download Java librarys here:
+4. Download Java libraries here:
 https://drive.google.com/open?id=1G9TV9714Uyo5h2Y9zLJmIfOfEzDx8oko
 5. Download project for import here:
 https://drive.google.com/file/d/1XglUIo_R5JK4C5IutJE6dEazXD5YUiV8/view
-6. Create a Folder in your Desktop where you will keep Java, WebDriver and Project in seperate spaces 
+6. Create a Folder in your Desktop where you will keep Java, WebDriver and Project in separate spaces 
 7. Extract Project
-8. Install IntelliJ with defoult setup
+8. Install IntelliJ with default setup
 9. After installation, run IntelliJ
 10. In "Welcome to IntelliJ IDEA" window, select Import Project with Maven
 11. Pick extracted project and run import
